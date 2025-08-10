@@ -60,3 +60,7 @@ Research Projects – Aggregating and preparing datasets for statistical analysi
 Final Notes:
 This ETL Data Pipeline project is a beginner-friendly yet practical example of how to process data efficiently using Python and Pandas. It follows the core structure of Extract → Transform → Load, which is the foundation of most data workflows in analytics, machine learning, and business intelligence. By mastering such simple pipelines, you set the stage for building more advanced and automated systems in the future.
 
+
+OUTPUT :
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/fe109aeb-173a-4976-8212-9ac317e26f44" />
+
